@@ -1,3 +1,4 @@
+![Untitled-1](https://github.com/iamtheabhishekdas/iamtheabhishekdas/assets/101855282/6c970651-1568-4829-bc1f-467b833badaa)
 # 💫 About Me:
 🔭 I’m currently working on VasisTree<br>🤝 I’m looking for help with Data Analyst Project<br>🌱 I’m currently learning Looker, D3F.js<br>💬 Ask me about Advance Excel, Python , SQL, PowerBI<br>⚡ Fun facts Did you know that the world's largest rubber duck is taller than the Statue of Liberty? Talk about quacking big egos!
 
