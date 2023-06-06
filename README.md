@@ -14,7 +14,7 @@
 
 </br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="300" width="300">
+<img align='right' src="https://media.giphy.com/media/fMA8fQ06Q2wHxIX9ie/giphy.gif" height="250" width="350">
 <h1><img src="https://media.giphy.com/media/MXdXh3xD7kHhRqTnAS/giphy.gif" width="30">  OBJECTIVE</h1>
   <p align='justify'>I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
 In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.</p>
