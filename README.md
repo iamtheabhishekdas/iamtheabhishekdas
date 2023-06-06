@@ -1,7 +1,8 @@
-![Untitled-1](https://github.com/iamtheabhishekdas/iamtheabhishekdas/assets/101855282/6c970651-1568-4829-bc1f-467b833badaa)
+![ezgif-5-ab4fc17921](https://github.com/iamtheabhishekdas/iamtheabhishekdas/assets/101855282/a174b090-05ca-4d1d-b3f1-1c65fe5d2c48)
+
 # 💫 About Me:
 🔭 I’m currently working on VasisTree<br>🤝 I’m looking for help with Data Analyst Project<br>🌱 I’m currently learning Looker, D3F.js<br>💬 Ask me about Advance Excel, Python , SQL, PowerBI<br>⚡ Fun facts Did you know that the world's largest rubber duck is taller than the Statue of Liberty? Talk about quacking big egos!
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/theabhishekdas/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the_brn_warrior/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamtheabhishekdas/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Abhishe06817605) 
