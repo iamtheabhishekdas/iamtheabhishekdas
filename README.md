@@ -42,7 +42,7 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
     </tr>
     <tr>
       <td valign="center" align="center" width="370px">
-        <img style="margin: 10px" src="assets/html.png" alt="HTML5" height="35" />
+        <img style="margin: 10px" src="html.png" alt="HTML5" height="35" />
         <img style="margin: 10px" src="assets/css.png" alt="CSS3" height="35" /> 
         <img style="margin: 10px" src="assets/js.png" alt="javaScript" height="35" />  
         <img style="margin: 10px" src="assets/ts.png" alt="typeScript" height="35" /> 
