@@ -14,16 +14,36 @@
 
 </br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
-<p align='justify'>
-  I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
-In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.
+<img align='right' src="https://media.giphy.com/media/fMA8fQ06Q2wHxIX9ie/giphy.gif" height="250" width="350">
+<h1><img src="https://media.giphy.com/media/MXdXh3xD7kHhRqTnAS/giphy.gif" width="30">  OBJECTIVE</h1>
+  <p align='justify'>I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
+In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.</p>
+
+<h1><img src="https://media.giphy.com/media/FEzcI0TlDxkdbaHTwV/giphy.gif" width="30">  BADGES EARNED</h1>
+<a href="https://www.credly.com/earner/earned/badge/3b2aac4c-5441-4d5a-8561-8f4baba0a2e3">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/7ef86dda-02cd-402e-9deb-3bf2d33fa472">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/83988bec-771d-4044-9de9-3add7248d92c">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/e8bb1390-b3be-41b7-b012-e61bdee87f40">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" />
+</a>
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <table>
   <tr>
     <td valign="center">
       <p>
-        <h2><img src="https://media.giphy.com/media/RMZWv7UqikFGIvv6m4/giphy.gif" width="55">नमस्कारम्<img src="https://media.giphy.com/media/RMZWv7UqikFGIvv6m4/giphy.gif" width="55"></h2>
+        <h1><img src="https://media.giphy.com/media/RMZWv7UqikFGIvv6m4/giphy.gif" width="55">नमस्कारम्<img src="https://media.giphy.com/media/RMZWv7UqikFGIvv6m4/giphy.gif" width="55"></h1>
         
 🔭 I’m currently working on VasisTree
 <br>🤝 I’m looking for help with Data Analyst Project<br>🌱 I’m currently learning Looker, D3F.js<br>💬 Ask me about Advance Excel, Python , SQL, PowerBI<br>⚡ Fun facts Did you know that the world's largest rubber duck is taller than the Statue of Liberty? Talk about quacking big egos!
@@ -134,15 +154,17 @@ Data Visualization Tools</h2>
 </p>
 <br/>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<h3 align='center'>MY STREAK&nbsp;&nbsp;</h3>
-<p align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamtheabhishekdas&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
-</p>
-###
+<h1 align="center" font-color="blue"> <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"> MY STREAK <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"></h1>
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheabhishekdas&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
+<a href="#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtheabhishekdas&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+    </a>
+<br>
+<br>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/iamtheabhishekdas/iamtheabhishekdas/output/snake.svg" alt="Snake animation" />
-
-###
-<br />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
