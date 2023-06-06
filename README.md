@@ -1,7 +1,98 @@
 ![ezgif-5-ab4fc17921](https://github.com/iamtheabhishekdas/iamtheabhishekdas/assets/101855282/a174b090-05ca-4d1d-b3f1-1c65fe5d2c48)
+<h1 align="center" font-color="blue">Bonjour , I'm Abhishek Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=0080FECenter=true&center=true&width=460&lines=Data-Analyst" </p></br>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
+<h4 align="justify">I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
+In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.</h4>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
+<h1 align="left" font-color="blue"> <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" width="35"> CONNECT WITH ME </h1>
+
+<a href="mailto:theabhishekdas279@gmail.com">
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://twitter.com/Abhishe06817605">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>
+<a href="https://www.linkedin.com/in/iamtheabhishekdas/">
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<a href="https://wa.me/6371096736?text=Hello%20!%20">
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+</a>
+<a href="https://www.facebook.com/theabhishekdas">
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+</a>
+<a href="https://www.instagram.com/the_brn_warrior/">
+  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+<br />
+<br />
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="370px">
+        <img style="margin: 10px" src="assets/html.png" alt="HTML5" height="35" />
+        <img style="margin: 10px" src="assets/css.png" alt="CSS3" height="35" /> 
+        <img style="margin: 10px" src="assets/js.png" alt="javaScript" height="35" />  
+        <img style="margin: 10px" src="assets/ts.png" alt="typeScript" height="35" /> 
+        <img style="margin: 10px" src="assets/react.png" alt="reactJs" height="35" />
+        <img style="margin: 10px" src="assets/next.png" alt="nextJs" height="35" />
+        <img style="margin: 10px" src="assets/chart.png" alt="chartJs" height="35" />  
+        <img style="margin: 10px" src="assets/tailwind.png" alt="tailwind" height="35" />  
+        <img style="margin: 10px" src="assets/bootstrap.png" alt="bootstrap" height="35" />  
+        <img style="margin: 10px" src="assets/sass.png" alt="sass" height="35" /> 
+        <img style="margin: 10px" src="assets/storybook.png" alt="storybook" height="35" /> 
+        <img style="margin: 10px" src="assets/jest.png" alt="jest" height="35" />
+        <img style="margin: 10px" src="assets/graphql.png" alt="graphQL" height="35" />
+      </td>
+      <td valign="center" align="center" width="370px">
+        <img style="margin: 10px" src="assets/azure.png" alt="azure" height="35" />
+        <img style="margin: 10px" src="assets/vscode.png" alt="vscode" height="35" />
+        <img style="margin: 10px" src="assets/vs.png" alt="vs" height="35" />
+        <img style="margin: 10px" src="assets/github.png" alt="vs" height="35" />
+        <img style="margin: 10px" src="assets/altair.png" alt="altair" height="35" />
+        <img style="margin: 10px" src="assets/unity.png" alt="unity" height="35" />
+        <img style="margin: 10px" src="assets/vuforia.png" alt="vuforia" height="35" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="370px">
+        <img style="margin: 10px" src="assets/node.png" alt="nodeJs" height="35" /> 
+        <img style="margin: 10px" src="assets/csharp.png" alt="C#" height="35" />  
+        <img style="margin: 10px" src="assets/cosmos.png" alt="cosmosDB" height="35" />  
+        <img style="margin: 10px" src="assets/sql.png" alt="SQL" height="35" />
+     </td>
+     <td valign="center" align="center" width="370px">
+        <img style="margin: 10px" src="assets/ps.png" alt="photoshop" height="35" />  
+        <img style="margin: 10px" src="assets/xd.png" alt="adobeXD" height="35" /> 
+        <img style="margin: 10px" src="assets/figma.png" alt="figma" height="35" /> 
+        <img style="margin: 10px" src="assets/blender.png" alt="blender" height="35" />  
+      </td>
+    </tr>
+  </table>
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on VasisTree<br>🤝 I’m looking for help with Data Analyst Project<br>🌱 I’m currently learning Looker, D3F.js<br>💬 Ask me about Advance Excel, Python , SQL, PowerBI<br>⚡ Fun facts Did you know that the world's largest rubber duck is taller than the Statue of Liberty? Talk about quacking big egos!
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 ## 🌐 Socials:
