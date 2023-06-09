@@ -13,12 +13,12 @@
 </div>
 
 </br>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%" height="35"/>
 <img align='right' src="https://media.giphy.com/media/fMA8fQ06Q2wHxIX9ie/giphy.gif" height="250" width="350">
 <h1><img src="https://media.giphy.com/media/MXdXh3xD7kHhRqTnAS/giphy.gif" width="30">  OBJECTIVE</h1>
   <p align='justify'>I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
 In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.</p>
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%" height="35"/>
 <h1><img src="https://media.giphy.com/media/FEzcI0TlDxkdbaHTwV/giphy.gif" width="30">  BADGES EARNED</h1>
 <a href="https://www.credly.com/earner/earned/badge/3b2aac4c-5441-4d5a-8561-8f4baba0a2e3">
   <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" />
@@ -35,6 +35,7 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
 </p>
 <br/>
 <br/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%" height="35"/>
 <br/>
 <br/>
 <br/>
@@ -81,11 +82,13 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
   
 </table>
 <br/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%" height="35"/>
 <p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+  <img src="https://media.giphy.com/media/TdB5cIvuPpPtOjW4zG/giphy.gif" width="150" >
+    <br/>
+  <img src="https://profile-counter.glitch.me/iamtheabhishekdas/count.svg" />
 </p>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%" height="35"/>
 
 <h1 align="left" font-color="blue"> <img src="https://media.giphy.com/media/Q5Wmfddmzp0VSJeBFF/giphy.gif" width="35"> SKILLS </h1>
 <h2><img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25" height="25">
@@ -153,7 +156,7 @@ Data Visualization Tools</h2>
  </p>
 </p>
 <br/>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%" height="35"/>
 <h1 align="center" font-color="blue"> <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"> MY STREAK <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"></h1>
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
@@ -166,5 +169,5 @@ Data Visualization Tools</h2>
     </a>
 <br>
 <br>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
 
